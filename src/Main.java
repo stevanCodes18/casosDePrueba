@@ -81,7 +81,7 @@ está ordenado no decreciente para
 ejercicio 7 – ¿Por qué es mejor usar oráculos por propiedades?
 porque no sabemos el algoritmo (es caja negra).
 si usamos valores concretos tendríamos que calcular manualmente el array ordenado para cada prueba → muy frágil.
-con propiedades verificamos que “sea correcto” independientemente del input. Esto es la base del property-based testing (usado en bibliotecas como QuickCheck, JUnit-QuickCheck, etc.).
+con propiedades verificamos que “sea correcto” independientemente del input.
      */
 
     /*
